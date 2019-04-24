@@ -14,11 +14,11 @@ function send($phone){
 echo "
 ############################################################
     Spammer Call From TOKOPEDIA
-        Author By   : Mr./K4NC1L5
-        Contact Me  : denishendriawansyah@gmail.com
-        Youtube     : D3N15H ID
-        Instagram   : @nisss_111
-        My Team     : Explosion Squad Cyber 
+        Author By   : DzenarAura
+        Contact Me  : byh4ck1n9@gmail.com
+        Youtube     : Kaga Ada
+        Instagram   : @dzenaraura
+        My Team     : 4UR4 Squad Cyber 
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
 echo "Nomor\nInput : ";
